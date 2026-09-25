@@ -23,7 +23,8 @@ Please check [install tutorial](install.md) if you don't know how to install or 
 
 QQ Groups:  
 Group 1: 881201853  
-Group 2: 712629637  
+Group 2: 712629637 
+Group 3: 649655626
 
 Discord: https://discord.gg/t5Uf2xYpvA (**international community channel**)
 
